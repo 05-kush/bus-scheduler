@@ -4,7 +4,14 @@ A production-quality electric bus charging scheduler built with Python and Strea
 Schedules charging stops for 20 electric buses along a fixed 540 km corridor
 (Bengaluru → A → B → C → D → Kochi) using a rule-engine with tunable weights.
 
-**Live app**: *(deploy to Streamlit Community Cloud — see below)*
+## Live Demo
+
+🚀 Streamlit App:
+[https://your-app-name.streamlit.app](https://bus-scheduler.streamlit.app/)
+
+📂 GitHub Repository:
+https://github.com/05-kush/bus-scheduler
+
 
 ---
 
