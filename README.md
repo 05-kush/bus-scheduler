@@ -7,7 +7,7 @@ Schedules charging stops for 20 electric buses along a fixed 540 km corridor
 ## Live Demo
 
 🚀 Streamlit App:
-[https://your-app-name.streamlit.app](https://bus-scheduler.streamlit.app/)
+[https://bus-scheduler.streamlit.app](https://bus-scheduler.streamlit.app/)
 
 📂 GitHub Repository:
 https://github.com/05-kush/bus-scheduler
